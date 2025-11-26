@@ -7,3 +7,8 @@ class DormB(Dorm):
 
     def add_to_room(self, soldier):
         return super().add_to_room(soldier)
+    
+    def is_full(self):
+        return super().is_full()
+    
+    
