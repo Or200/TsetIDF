@@ -32,7 +32,7 @@ class Soldier:
 
             print(f"Soldier {f_name} {l_name} added successfully")
         except:
-            print(f"Fail - soldier {f_name} {l_name} NOT!! added", )
+            print(f"Fail -  {f_name} {l_name} NOT!! added", )
 
 
 
